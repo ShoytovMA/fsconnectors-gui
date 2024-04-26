@@ -1,0 +1,3 @@
+humanize
+PyQt5
+git+https://github.com/ai-forever/fsconnectors
