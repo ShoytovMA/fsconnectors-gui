@@ -13,7 +13,7 @@ GUI for S3Connector from [fsconnectors](https://github.com/ai-forever/fsconnecto
 
 ## Usage
 ```
-s3browser.py [-h] --bucket BUCKET --config_path CONFIG_PATH
+python s3browser.py [-h] --bucket BUCKET --config_path CONFIG_PATH
 
 options:
   -h, --help                    show this help message and exit
